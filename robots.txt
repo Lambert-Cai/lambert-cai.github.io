@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Lambert-Cai.github.io/sitemap.xml 
